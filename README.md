@@ -1,5 +1,5 @@
 # ImageGalleryApp
 Galley App for Images
 1.clone this repo
-1.run "npm install"
-1.run "npx react-native run-android"
+2.run "npm install"
+3.run "npx react-native run-android"
